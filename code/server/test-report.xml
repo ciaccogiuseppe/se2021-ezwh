@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\internalOrderDAO.test.js">
+    <testCase name="internalOrderDAO [INTERNALORDER_0] Delete all InternalOrders" duration="616"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_1] Create InternalOrder" duration="131"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_2] Get InternalOrder by state" duration="139"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_3] Get products" duration="137"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_4] Modify state" duration="157"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_5] Modify products" duration="175"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_6] Delete InternalOrder" duration="182"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_7] Insert order 0-loop" duration="166"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_8] Insert order 1-loop" duration="127"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_9] Insert order N-loop" duration="158"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_10] Modify order 0-loop" duration="145"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_11] Modify order 1-loop" duration="237"/>
+    <testCase name="internalOrderDAO [INTERNALORDER_12] Modify order N-loop" duration="231"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\userDAO.test.js">
+    <testCase name="userDAO [USER_0] Delete all Users" duration="182"/>
+    <testCase name="userDAO [USER_1] Create new Customer" duration="61"/>
+    <testCase name="userDAO [USER_2] Create new Manager" duration="64"/>
+    <testCase name="userDAO [USER_3] Get suppliers" duration="69"/>
+    <testCase name="userDAO [USER_4] Get user info" duration="54"/>
+    <testCase name="userDAO [USER_5] Get user by name and type" duration="80"/>
+    <testCase name="userDAO [USER_6] Modify user rights" duration="72"/>
+    <testCase name="userDAO [USER_7] Login" duration="95"/>
+    <testCase name="userDAO [USER_8] Delete user" duration="206"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\skuDAO.test.js">
+    <testCase name="testskuDAO [SKU_0] Delete all SKUs" duration="250"/>
+    <testCase name="testskuDAO [SKU_1] Create a new SKU" duration="77"/>
+    <testCase name="testskuDAO [SKU_2] Create SKU with missing parameter" duration="42"/>
+    <testCase name="testskuDAO [SKU_3] Delete SKU" duration="80"/>
+    <testCase name="testskuDAO [SKU_4] Update SKU" duration="75"/>
+    <testCase name="testskuDAO [SKU_6] Get test descriptor SKU" duration="95"/>
+    <testCase name="testskuDAO [SKU_5] Test set position of SKU" duration="107"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\testDescriptorDAO.test.js">
+    <testCase name="testDescriptorDAO [TESTDESCRIPTOR_0] Delete all TestDescriptors" duration="275"/>
+    <testCase name="testDescriptorDAO [TESTDESCRIPTOR_1] Create TestDescriptor" duration="79"/>
+    <testCase name="testDescriptorDAO [TESTDESCRIPTOR_2] Get all TestDescriptors" duration="76"/>
+    <testCase name="testDescriptorDAO [TESTDESCRIPTOR_3] Get TestDescriptor by id" duration="66"/>
+    <testCase name="testDescriptorDAO [TESTDESCRIPTOR_4] Modify TestDescriptor" duration="120"/>
+    <testCase name="testDescriptorDAO [TESTDESCRIPTOR_5] Delete TestDescriptors" duration="112"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\positionDAO.test.js">
+    <testCase name="testpositionDAO [POSITION_0] Delete all Positions" duration="269"/>
+    <testCase name="testpositionDAO [POSITION_1] Create Position" duration="67"/>
+    <testCase name="testpositionDAO [POSITION_2] Update Position ID" duration="75"/>
+    <testCase name="testpositionDAO [POSITION_3] Update Occupied Position Values" duration="102"/>
+    <testCase name="testpositionDAO [POSITION_4] Update Position" duration="87"/>
+    <testCase name="testpositionDAO [POSITION_5] Delete Position" duration="64"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\skuItemDAO.test.js">
+    <testCase name="testItemskuDAO [SKUItem_0] Delete all SKUItems" duration="277"/>
+    <testCase name="testItemskuDAO [SKUIitem_1] Create a new SKU" duration="76"/>
+    <testCase name="testItemskuDAO [SKUIitem_2] Update a SKUIitem" duration="86"/>
+    <testCase name="testItemskuDAO [SKUIitem_3] Delete a new SKU" duration="106"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\skuDAOErrors.test.js">
+    <testCase name="testskuDAOError [ERR_SKU_0] Delete all SKUs" duration="158"/>
+    <testCase name="testskuDAOError [ERR_SKU_1] Create a new SKU" duration="7"/>
+    <testCase name="testskuDAOError [ERR_SKU_3] Delete SKU" duration="3"/>
+    <testCase name="testskuDAOError ERR_[SKU_4] Update SKU" duration="2"/>
+    <testCase name="testskuDAOError [ERR_SKU_6] Get test descriptor SKU" duration="3"/>
+    <testCase name="testskuDAOError [ERR_SKU_5] Test set position of SKU" duration="5"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\testResultDAO.test.js">
+    <testCase name="testResultDAO [TESTRESULT_0] Delete all TestResults" duration="290"/>
+    <testCase name="testResultDAO [TESTRESULT_1] Create TestResults" duration="71"/>
+    <testCase name="testResultDAO [TESTRESULT_2] Modify TestResults" duration="69"/>
+    <testCase name="testResultDAO [TESTRESULT_3] Delete TestResult" duration="112"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\testResultDAOErrors.test.js">
+    <testCase name="testResultDAOError [ERR_TESTRESULT_0] Delete all TestResults" duration="139"/>
+    <testCase name="testResultDAOError [ERR_TESTRESULT_1] Create TestResults" duration="3"/>
+    <testCase name="testResultDAOError [ERR_TESTRESULT_2] Modify TestResults" duration="2"/>
+    <testCase name="testResultDAOError [ERR_TESTRESULT_3] Delete TestResult" duration="4"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\internalOrderDAOErrors.test.js">
+    <testCase name="internalOrderDAOError [ERR_INTERNALORDER_0] Delete all InternalOrders" duration="190"/>
+    <testCase name="internalOrderDAOError [ERR_INTERNALORDER_1] Create InternalOrder" duration="4"/>
+    <testCase name="internalOrderDAOError [ERR_INTERNALORDER_2] Get InternalOrder by state" duration="5"/>
+    <testCase name="internalOrderDAOError [ERR_INTERNALORDER_3] Get products" duration="4"/>
+    <testCase name="internalOrderDAOError [ERR_INTERNALORDER_4] Modify state" duration="3"/>
+    <testCase name="internalOrderDAOError [ERR_INTERNALORDER_5] Modify products" duration="4"/>
+    <testCase name="internalOrderDAOError [ERR_INTERNALORDER_6] Delete InternalOrder" duration="1"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\testDescriptorDAOErrors.test.js">
+    <testCase name="testDescriptorDAOError [ERR_TESTDESCRIPTOR_0] Delete all TestDescriptors" duration="101"/>
+    <testCase name="testDescriptorDAOError [ERR_TESTDESCRIPTOR_1] Create TestDescriptor" duration="3"/>
+    <testCase name="testDescriptorDAOError [ERR_TESTDESCRIPTOR_2] Get all TestDescriptors" duration="3"/>
+    <testCase name="testDescriptorDAOError [ERR_TESTDESCRIPTOR_3] Get TestDescriptor by id" duration="3"/>
+    <testCase name="testDescriptorDAOError [ERR_TESTDESCRIPTOR_4] Modify TestDescriptor" duration="3"/>
+    <testCase name="testDescriptorDAOError [ERR_TESTDESCRIPTOR_5] Delete TestDescriptors" duration="1"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\userDAOErrors.test.js">
+    <testCase name="userDAOError [ERR_USER_0] Delete all Users" duration="185"/>
+    <testCase name="userDAOError [ERR_USER_1] Create new Customer" duration="6"/>
+    <testCase name="userDAOError [ERR_USER_3] Get suppliers" duration="5"/>
+    <testCase name="userDAOError [ERR_USER_4] Get user info" duration="2"/>
+    <testCase name="userDAOError [ERR_USER_5] Get user by name and type" duration="4"/>
+    <testCase name="userDAOError [ERR_USER_6] Modify user rights" duration="3"/>
+    <testCase name="userDAOError [ERR_USER_7] Login" duration="3"/>
+    <testCase name="userDAOError [ERR_USER_8] Delete user" duration="3"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\itemDAOErrors.test.js">
+    <testCase name="itemDAOError [ERR_ITEM_0] Delete all Items" duration="14"/>
+    <testCase name="itemDAOError [ERR_ITEM_1] Create new item" duration="1"/>
+    <testCase name="itemDAOError [ERR_ITEM_2] Get Item by Id" duration="3"/>
+    <testCase name="itemDAOError [ERR_ITEM_3] Modify item" duration="75"/>
+    <testCase name="itemDAOError [ERR_ITEM_4] Delete item" duration="1"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\restockOrderDAOErrors.test.js">
+    <testCase name="restockOrderDAOError [ERR_RESTOCKORDER_0] Delete all Users" duration="7"/>
+    <testCase name="restockOrderDAOError [ERR_RESTOCKORDER_1] Create restockOrder" duration="3"/>
+    <testCase name="restockOrderDAOError [ERR_RESTOCKORDER_2] Get products" duration="2"/>
+    <testCase name="restockOrderDAOError [ERR_RESTOCKORDER_3] Add SKU items" duration="6"/>
+    <testCase name="restockOrderDAOError [ERR_RESTOCKORDER_4] Add transport note" duration="3"/>
+    <testCase name="restockOrderDAOError [ERR_RESTOCKORDER_5] Modify state" duration="2"/>
+    <testCase name="restockOrderDAOError [ERR_RESTOCKORDER_6] Delete restock order" duration="1"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\skuItemDAOErrors.test.js">
+    <testCase name="testItemskuDAOError [SKUItem_0] Delete all SKUItems" duration="94"/>
+    <testCase name="testItemskuDAOError [ERR_SKUIitem_1] Create a new SKU" duration="7"/>
+    <testCase name="testItemskuDAOError [ERR_SKUIitem_2] Update a SKUIitem" duration="1"/>
+    <testCase name="testItemskuDAOError [ERR_SKUIitem_3] Delete a new SKU" duration="2"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\positionDAOErrors.test.js">
+    <testCase name="testpositionDAOError [ERR_POSITION_0] Delete all Positions" duration="9"/>
+    <testCase name="testpositionDAOError [ERR_POSITION_1] Create Position" duration="2"/>
+    <testCase name="testpositionDAOError [ERR_POSITION_2] Update Position ID" duration="2"/>
+    <testCase name="testpositionDAOError [ERR_POSITION_3] Update Occupied Position Values" duration="2"/>
+    <testCase name="testpositionDAOError [ERR_POSITION_4] Update Position" duration="2"/>
+    <testCase name="testpositionDAOError [ERR_POSITION_5] Delete Position" duration="2"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\returnOrderDAOErrors.test.js">
+    <testCase name="returnOrderDAOError [ERR_RETURNORDER_0] Delete all ReturnOrders" duration="12"/>
+    <testCase name="returnOrderDAOError [ERR_RETURNORDER_1] Create ReturnOrder" duration="23"/>
+    <testCase name="returnOrderDAOError [ERR_RETURNORDER_2] Get products" duration="2"/>
+    <testCase name="returnOrderDAOError [ERR_RETURNORDER_3] Delete ReturnOrder" duration="3"/>
+  </file>
+  <file path="C:\Users\giuse\Desktop\softeng2 github\se2021-ezwh\code\server\unit_test\common.test.js">
+    <testCase name="VALIDATE_EMAIL" duration="4"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="1"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+    <testCase name="VALIDATE_EMAIL" duration="0"/>
+  </file>
+</testExecutions>
