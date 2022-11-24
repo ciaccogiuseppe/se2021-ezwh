@@ -18,7 +18,7 @@ jobs:
          cd code/server
          npm install
       - name: Test and coverage
-        run: npm test --coverage
+        run: npm run test
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
         env:
