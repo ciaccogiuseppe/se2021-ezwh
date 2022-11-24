@@ -14,9 +14,9 @@ jobs:
         with:
           fetch-depth: 0 
       - name: Install dependencies
-        script:
-          - cd code/server/ 
-          - npm install
+        run: |
+         cd server
+         npm install
       - name: Test and coverage
         run: npm test --coverage
       - name: SonarCloud Scan
