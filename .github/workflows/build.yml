@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0 
       - name: Install dependencies
         run: |
-         cd server
+         cd code/server
          npm install
       - name: Test and coverage
         run: npm test --coverage
