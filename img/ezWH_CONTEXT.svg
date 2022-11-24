@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="702.78271484375"
+   height="420"
+   id="svg318"
+   sodipodi:docname="ezWH_CONTEXT.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata322">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview320"
+     showgrid="false"
+     inkscape:zoom="0.51367228"
+     inkscape:cx="4.0494289"
+     inkscape:cy="534.4563"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1134"
+       width="720.30359"
+       height="430.23541"
+       x="-3.893533"
+       y="-6.3418684" />
+  </g>
+  <g
+     id="g316">
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g118">
+      <rect
+         fill="#C0C0C0"
+         stroke="none"
+         x="343"
+         y="87"
+         width="320"
+         height="400"
+         opacity="0.2"
+         id="rect116" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g122">
+      <rect
+         fill="#ffffff"
+         stroke="none"
+         x="336"
+         y="80"
+         width="320"
+         height="400"
+         id="rect120" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g126">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 336 80 L 656 80 L 656 480 L 336 480 L 336 80 Z Z"
+         stroke-miterlimit="10"
+         id="path124" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g134">
+      <g
+         id="g132">
+        <path
+           fill="none"
+           stroke="none"
+           id="path128" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="474.3291015625"
+           y="99.5"
+           id="text130">System</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g138">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 270.55070774147725 89.68 C 270.55070774147725 84.886167936 274.43655006642274 81 279.22998046875 81 C 284.02341087107726 81 287.90925319602275 84.886167936 287.90925319602275 89.68 C 287.90925319602275 94.473832064 284.02341087107726 98.36 279.22998046875 98.36 C 274.43655006642274 98.36 270.55070774147725 94.473832064 270.55070774147725 89.68 Z"
+         id="path136" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g142">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 270.55070774147725 89.68 C 270.55070774147725 84.886167936 274.43655006642274 81 279.22998046875 81 C 284.02341087107726 81 287.90925319602275 84.886167936 287.90925319602275 89.68 C 287.90925319602275 94.473832064 284.02341087107726 98.36 279.22998046875 98.36 C 274.43655006642274 98.36 270.55070774147725 94.473832064 270.55070774147725 89.68 Z"
+         stroke-miterlimit="10"
+         id="path140" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g146">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 279.22998046875 98.36 L 279.22998046875 115.64"
+         stroke-miterlimit="10"
+         id="path144" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g150">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 270.04016228693183 104.84 L 288.41979865056817 104.84"
+         stroke-miterlimit="10"
+         id="path148" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g154">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 279.22998046875 115.64 L 266.46634410511365 133"
+         stroke-miterlimit="10"
+         id="path152" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g158">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 279.22998046875 115.64 L 291.99361683238635 133"
+         stroke-miterlimit="10"
+         id="path156" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g166">
+      <g
+         id="g164">
+        <path
+           fill="none"
+           stroke="none"
+           id="path160" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="253.575927734375"
+           y="153.5"
+           id="text162">Manager</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g170">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 175.12810031960228 249.68 C 175.12810031960228 244.886167936 179.01394264454774 241 183.807373046875 241 C 188.60080344920226 241 192.48664577414772 244.886167936 192.48664577414772 249.68 C 192.48664577414772 254.47383206400002 188.60080344920226 258.36 183.807373046875 258.36 C 179.01394264454774 258.36 175.12810031960228 254.47383206400002 175.12810031960228 249.68 Z"
+         id="path168" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g174">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 175.12810031960228 249.68 C 175.12810031960228 244.886167936 179.01394264454774 241 183.807373046875 241 C 188.60080344920226 241 192.48664577414772 244.886167936 192.48664577414772 249.68 C 192.48664577414772 254.47383206400002 188.60080344920226 258.36 183.807373046875 258.36 C 179.01394264454774 258.36 175.12810031960228 254.47383206400002 175.12810031960228 249.68 Z"
+         stroke-miterlimit="10"
+         id="path172" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g178">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 183.807373046875 258.36 L 183.807373046875 275.64"
+         stroke-miterlimit="10"
+         id="path176" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g182">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 174.61755486505683 264.84 L 192.99719122869317 264.84"
+         stroke-miterlimit="10"
+         id="path180" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g186">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 183.807373046875 275.64 L 171.04373668323865 293"
+         stroke-miterlimit="10"
+         id="path184" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g190">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 183.807373046875 275.64 L 196.57100941051135 293"
+         stroke-miterlimit="10"
+         id="path188" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g198">
+      <g
+         id="g196">
+        <path
+           fill="none"
+           stroke="none"
+           id="path192" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="120.09912109375"
+           y="313.5"
+           id="text194">Warehouse Employee</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g202">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 447 279 C 447 261.3268864 468.4903296 247 495 247 C 521.5096704 247 543 261.3268864 543 279 C 543 296.6731136 521.5096704 311 495 311 C 468.4903296 311 447 296.6731136 447 279 Z"
+         opacity="0.2"
+         id="path200" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g206">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 440 272 C 440 254.3268864 461.4903296 240 488 240 C 514.5096704 240 536 254.3268864 536 272 C 536 289.6731136 514.5096704 304 488 304 C 461.4903296 304 440 289.6731136 440 272 Z"
+         id="path204" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g210">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 440 272 C 440 254.3268864 461.4903296 240 488 240 C 514.5096704 240 536 254.3268864 536 272 C 536 289.6731136 514.5096704 304 488 304 C 461.4903296 304 440 289.6731136 440 272 Z"
+         stroke-miterlimit="10"
+         id="path208" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g218">
+      <g
+         id="g216">
+        <path
+           fill="none"
+           stroke="none"
+           id="path212" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="470.66455078125"
+           y="279"
+           id="text214">EzWh</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g222">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 257 277 L 439 273"
+         stroke-miterlimit="10"
+         id="path220" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g226">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 222.59294406960228 393.68 C 222.59294406960228 388.886167936 226.47878639454774 385 231.272216796875 385 C 236.06564719920226 385 239.95148952414772 388.886167936 239.95148952414772 393.68 C 239.95148952414772 398.473832064 236.06564719920226 402.36 231.272216796875 402.36 C 226.47878639454774 402.36 222.59294406960228 398.473832064 222.59294406960228 393.68 Z"
+         id="path224" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g230">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 222.59294406960228 393.68 C 222.59294406960228 388.886167936 226.47878639454774 385 231.272216796875 385 C 236.06564719920226 385 239.95148952414772 388.886167936 239.95148952414772 393.68 C 239.95148952414772 398.473832064 236.06564719920226 402.36 231.272216796875 402.36 C 226.47878639454774 402.36 222.59294406960228 398.473832064 222.59294406960228 393.68 Z"
+         stroke-miterlimit="10"
+         id="path228" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g234">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 231.272216796875 402.36 L 231.272216796875 419.64"
+         stroke-miterlimit="10"
+         id="path232" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g238">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 222.08239861505683 408.84 L 240.46203497869317 408.84"
+         stroke-miterlimit="10"
+         id="path236" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g242">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 231.272216796875 419.64 L 218.50858043323865 437"
+         stroke-miterlimit="10"
+         id="path240" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g246">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 231.272216796875 419.64 L 244.03585316051135 437"
+         stroke-miterlimit="10"
+         id="path244" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g254">
+      <g
+         id="g252">
+        <path
+           fill="none"
+           stroke="none"
+           id="path248" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="161.6669921875"
+           y="457.5"
+           id="text250">Quality Office Employee</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g258">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 752.7120846946023 193.68 C 752.7120846946023 188.886167936 756.5979270195477 185 761.391357421875 185 C 766.1847878242023 185 770.0706301491477 188.886167936 770.0706301491477 193.68 C 770.0706301491477 198.47383206400002 766.1847878242023 202.36 761.391357421875 202.36 C 756.5979270195477 202.36 752.7120846946023 198.47383206400002 752.7120846946023 193.68 Z"
+         id="path256" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g262">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 752.7120846946023 193.68 C 752.7120846946023 188.886167936 756.5979270195477 185 761.391357421875 185 C 766.1847878242023 185 770.0706301491477 188.886167936 770.0706301491477 193.68 C 770.0706301491477 198.47383206400002 766.1847878242023 202.36 761.391357421875 202.36 C 756.5979270195477 202.36 752.7120846946023 198.47383206400002 752.7120846946023 193.68 Z"
+         stroke-miterlimit="10"
+         id="path260" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g266">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 761.391357421875 202.36 L 761.391357421875 219.64"
+         stroke-miterlimit="10"
+         id="path264" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g270">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 752.2015392400568 208.84 L 770.5811756036932 208.84"
+         stroke-miterlimit="10"
+         id="path268" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g274">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 761.391357421875 219.64 L 748.6277210582386 237"
+         stroke-miterlimit="10"
+         id="path272" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g278">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 761.391357421875 219.64 L 774.1549937855114 237"
+         stroke-miterlimit="10"
+         id="path276" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g286">
+      <g
+         id="g284">
+        <path
+           fill="none"
+           stroke="none"
+           id="path280" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="733.5791015625"
+           y="257.5"
+           id="text282">Other OU</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g290">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 537 263 L 727 229"
+         stroke-miterlimit="10"
+         id="path288" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g294">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 254 160 L 207 239"
+         stroke-miterlimit="10"
+         id="path292" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g298">
+      <path
+         fill="#FFFFFF"
+         stroke="none"
+         d="M 210.15682525867757 217.227667688413 L 207 239 L 224.62757636720204 225.83684872766173"
+         id="path296" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g302">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 210.15682525867757 217.227667688413 L 207 239 L 224.62757636720204 225.83684872766173 L 210.15682525867757 217.227667688413"
+         stroke-miterlimit="10"
+         id="path300" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g306">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 218 383 L 197 320"
+         stroke-miterlimit="10"
+         id="path304" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g310">
+      <path
+         fill="#FFFFFF"
+         stroke="none"
+         d="M 211.41443830992284 336.61998700990557 L 197 320 L 195.44044155800506 341.9446525938781"
+         id="path308" />
+    </g>
+    <g
+       transform="translate(-102,-70) scale(1,1)"
+       id="g314">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 211.41443830992284 336.61998700990557 L 197 320 L 195.44044155800506 341.9446525938781 L 211.41443830992284 336.61998700990557"
+         stroke-miterlimit="10"
+         id="path312" />
+    </g>
+  </g>
+</svg>

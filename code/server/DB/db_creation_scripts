@@ -1,0 +1,170 @@
+CREATE TABLE "INTERNAL_ORDER" (
+	"id"	INTEGER NOT NULL,
+	"issueDate"	TEXT,
+	"state"	TEXT,
+	"customerId"	INTEGER,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
+
+-------------------------------------------------
+
+CREATE TABLE "INTERNAL_ORDER_PRODUCT" (
+	"orderId"	INTEGER,
+	"productId"	INTEGER,
+	"quantity"	INTEGER,
+	"description"	TEXT,
+	"price"	REAL,
+	PRIMARY KEY("productId","orderId")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "ITEM" (
+	"id"	INTEGER NOT NULL UNIQUE,
+	"description"	TEXT,
+	"price"	INTEGER,
+	"SKUId"	INTEGER,
+	"supplierId"	INTEGER,
+	PRIMARY KEY("id")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "POSITION" (
+	"positionID"	TEXT NOT NULL,
+	"aisleID"	TEXT,
+	"row"	TEXT,
+	"col"	TEXT,
+	"maxWeight"	INTEGER,
+	"maxVolume"	INTEGER,
+	"occupiedWeight"	INTEGER,
+	"occupiedVolume"	INTEGER,
+	PRIMARY KEY("positionID")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "PRODUCT_RFID" (
+	"orderId"	INTEGER,
+	"productId"	INTEGER,
+	"rfid"	TEXT,
+	PRIMARY KEY("rfid","productId","orderId")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "RESTOCK_ORDER" (
+	"id"	INTEGER NOT NULL,
+	"issueDate"	TEXT,
+	"state"	TEXT,
+	"supplierId"	INTEGER,
+	"transportNote"	INTEGER,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
+
+-------------------------------------------------
+
+CREATE TABLE "RESTOCK_ORDER_PRODUCT" (
+	"orderId"	INTEGER NOT NULL,
+	"productId"	INTEGER NOT NULL,
+	"itemId" INTEGER NOT NULL,
+	"quantity"	INTEGER,
+	"description"	TEXT,
+	"price"	REAL,
+	PRIMARY KEY("orderId","productId")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "RESTOCK_ORDER_PRODUCT_RFID" (
+	"orderId"	INTEGER,
+	"productId"	INTEGER,
+	"rfid"	TEXT,
+	PRIMARY KEY("orderId","productId","rfid")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "RETURN_ORDER" (
+	"id"	INTEGER NOT NULL UNIQUE,
+	"returnDate"	TEXT,
+	"restockOrderId"	INTEGER,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
+
+-------------------------------------------------
+
+CREATE TABLE "RETURN_ORDER_PRODUCT" (
+	"orderId"	INTEGER,
+	"productId"	INTEGER,
+	"description"	TEXT,
+	"price"	REAL,
+	"RFID"	TEXT,
+	PRIMARY KEY("orderId","productId")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "SKU" (
+	"id"	INTEGER NOT NULL,
+	"description"	TEXT NOT NULL,
+	"weight"	INTEGER NOT NULL,
+	"volume"	INTEGER NOT NULL,
+	"notes"	TEXT,
+	"position"	TEXT,
+	"availableQuantity"	INTEGER NOT NULL,
+	"price"	REAL NOT NULL,
+	PRIMARY KEY("id")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "SKU_Item" (
+	"RFID"	TEXT NOT NULL UNIQUE,
+	"SKUId"	INTEGER,
+	"Available"	INTEGER,
+	"DateOfStock"	TEXT,
+	PRIMARY KEY("RFID")
+);
+
+-------------------------------------------------
+
+CREATE TABLE "SKU_TESTDESCRIPTORS" (
+	"id"	INTEGER NOT NULL UNIQUE,
+	"name"	TEXT NOT NULL,
+	"procedureDescription"	TEXT,
+	"idSKU"	INTEGER,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
+
+-------------------------------------------------
+
+CREATE TABLE "TESTRESULT" (
+	"id"	INTEGER NOT NULL,
+	"idTestDescriptor"	INTEGER NOT NULL,
+	"Date"	TEXT NOT NULL,
+	"Result"	TEXT NOT NULL,
+	"RFID"	TEXT NOT NULL,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
+
+-------------------------------------------------
+
+CREATE TABLE "TRANSPORT_NOTE" (
+	"id"	INTEGER NOT NULL,
+	"deliveryDate"	TEXT,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
+
+-------------------------------------------------
+
+CREATE TABLE "USER" (
+	"ID"	INTEGER,
+	"USERNAME"	TEXT NOT NULL UNIQUE,
+	"NAME"	TEXT NOT NULL,
+	"SURNAME"	TEXT NOT NULL,
+	"PASSWORD"	TEXT NOT NULL,
+	"TYPE"	TEXT NOT NULL CHECK("TYPE" IN ("customer", "manager", "qualityEmployee", "clerk", "deliveryEmployee", "supplier")),
+	"IS_LOGGED_IN"	INTEGER NOT NULL DEFAULT 0 CHECK("IS_LOGGED_IN" >= 0 AND "IS_LOGGED_IN" <= 1),
+	PRIMARY KEY("ID" AUTOINCREMENT)
+);

@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1117"
+   height="1053"
+   id="svg954"
+   sodipodi:docname="ezWH_USECASE.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata958">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview956"
+     showgrid="false"
+     inkscape:zoom="0.31695575"
+     inkscape:cx="221.54835"
+     inkscape:cy="839.98815"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1768"
+       width="1183.1305"
+       height="1079.015"
+       x="-28.395132"
+       y="-19.704958" />
+  </g>
+  <g
+     id="g952">
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g438">
+      <rect
+         fill="#C0C0C0"
+         stroke="none"
+         x="375"
+         y="151"
+         width="520"
+         height="984"
+         opacity="0.2"
+         id="rect436" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g442">
+      <rect
+         fill="#ffffff"
+         stroke="none"
+         x="368"
+         y="144"
+         width="520"
+         height="984"
+         id="rect440" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g446">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 368 144 L 888 144 L 888 1128 L 368 1128 L 368 144 Z Z"
+         stroke-miterlimit="10"
+         id="path444" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g454">
+      <g
+         id="g452">
+        <path
+           fill="none"
+           stroke="none"
+           id="path448" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="607.41455078125"
+           y="163.5"
+           id="text450">system</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g458">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 166.55070774147728 705.6800000000001 C 166.55070774147728 700.8861679360001 170.43655006642274 697 175.22998046875 697 C 180.02341087107726 697 183.90925319602272 700.8861679360001 183.90925319602272 705.6800000000001 C 183.90925319602272 710.473832064 180.02341087107726 714.36 175.22998046875 714.36 C 170.43655006642274 714.36 166.55070774147728 710.473832064 166.55070774147728 705.6800000000001 Z"
+         id="path456" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g462">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 166.55070774147728 705.6800000000001 C 166.55070774147728 700.8861679360001 170.43655006642274 697 175.22998046875 697 C 180.02341087107726 697 183.90925319602272 700.8861679360001 183.90925319602272 705.6800000000001 C 183.90925319602272 710.473832064 180.02341087107726 714.36 175.22998046875 714.36 C 170.43655006642274 714.36 166.55070774147728 710.473832064 166.55070774147728 705.6800000000001 Z"
+         stroke-miterlimit="10"
+         id="path460" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g466">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 175.22998046875 714.36 L 175.22998046875 731.64"
+         stroke-miterlimit="10"
+         id="path464" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g470">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 166.04016228693183 720.84 L 184.41979865056817 720.84"
+         stroke-miterlimit="10"
+         id="path468" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g474">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 175.22998046875 731.64 L 162.46634410511365 749"
+         stroke-miterlimit="10"
+         id="path472" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g478">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 175.22998046875 731.64 L 187.99361683238635 749"
+         stroke-miterlimit="10"
+         id="path476" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g486">
+      <g
+         id="g484">
+        <path
+           fill="none"
+           stroke="none"
+           id="path480" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="149.575927734375"
+           y="769.5"
+           id="text482">Manager</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g490">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 205.36296360085228 353.68 C 205.36296360085228 348.886167936 209.24880592579774 345 214.042236328125 345 C 218.83566673045226 345 222.72150905539772 348.886167936 222.72150905539772 353.68 C 222.72150905539772 358.473832064 218.83566673045226 362.36 214.042236328125 362.36 C 209.24880592579774 362.36 205.36296360085228 358.473832064 205.36296360085228 353.68 Z"
+         id="path488" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g494">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 205.36296360085228 353.68 C 205.36296360085228 348.886167936 209.24880592579774 345 214.042236328125 345 C 218.83566673045226 345 222.72150905539772 348.886167936 222.72150905539772 353.68 C 222.72150905539772 358.473832064 218.83566673045226 362.36 214.042236328125 362.36 C 209.24880592579774 362.36 205.36296360085228 358.473832064 205.36296360085228 353.68 Z"
+         stroke-miterlimit="10"
+         id="path492" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g498">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 214.042236328125 362.36 L 214.042236328125 379.64"
+         stroke-miterlimit="10"
+         id="path496" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g502">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 204.85241814630683 368.84 L 223.23205450994317 368.84"
+         stroke-miterlimit="10"
+         id="path500" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g506">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 214.042236328125 379.64 L 201.27859996448865 397"
+         stroke-miterlimit="10"
+         id="path504" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g510">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 214.042236328125 379.64 L 226.80587269176135 397"
+         stroke-miterlimit="10"
+         id="path508" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g518">
+      <g
+         id="g516">
+        <path
+           fill="none"
+           stroke="none"
+           id="path512" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="174.302734375"
+           y="417.5"
+           id="text514">OU employee</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g522">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1070.4076413352273 273.68 C 1070.4076413352273 268.886167936 1074.2934836601728 265 1079.0869140625 265 C 1083.8803444648272 265 1087.7661867897727 268.886167936 1087.7661867897727 273.68 C 1087.7661867897727 278.473832064 1083.8803444648272 282.36 1079.0869140625 282.36 C 1074.2934836601728 282.36 1070.4076413352273 278.473832064 1070.4076413352273 273.68 Z"
+         id="path520" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g526">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1070.4076413352273 273.68 C 1070.4076413352273 268.886167936 1074.2934836601728 265 1079.0869140625 265 C 1083.8803444648272 265 1087.7661867897727 268.886167936 1087.7661867897727 273.68 C 1087.7661867897727 278.473832064 1083.8803444648272 282.36 1079.0869140625 282.36 C 1074.2934836601728 282.36 1070.4076413352273 278.473832064 1070.4076413352273 273.68 Z"
+         stroke-miterlimit="10"
+         id="path524" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g530">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1079.0869140625 282.36 L 1079.0869140625 299.64"
+         stroke-miterlimit="10"
+         id="path528" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g534">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1069.8970958806817 288.84 L 1088.2767322443183 288.84"
+         stroke-miterlimit="10"
+         id="path532" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g538">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1079.0869140625 299.64 L 1066.3232776988636 317"
+         stroke-miterlimit="10"
+         id="path536" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g542">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1079.0869140625 299.64 L 1091.8505504261364 317"
+         stroke-miterlimit="10"
+         id="path540" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g550">
+      <g
+         id="g548">
+        <path
+           fill="none"
+           stroke="none"
+           id="path544" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1016.09912109375"
+           y="337.5"
+           id="text546">Warehouse employee</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g554">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1084.7870358664773 553.6800000000001 C 1084.7870358664773 548.8861679360001 1088.6728781914228 545 1093.46630859375 545 C 1098.2597389960772 545 1102.1455813210227 548.8861679360001 1102.1455813210227 553.6800000000001 C 1102.1455813210227 558.473832064 1098.2597389960772 562.36 1093.46630859375 562.36 C 1088.6728781914228 562.36 1084.7870358664773 558.473832064 1084.7870358664773 553.6800000000001 Z"
+         id="path552" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g558">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1084.7870358664773 553.6800000000001 C 1084.7870358664773 548.8861679360001 1088.6728781914228 545 1093.46630859375 545 C 1098.2597389960772 545 1102.1455813210227 548.8861679360001 1102.1455813210227 553.6800000000001 C 1102.1455813210227 558.473832064 1098.2597389960772 562.36 1093.46630859375 562.36 C 1088.6728781914228 562.36 1084.7870358664773 558.473832064 1084.7870358664773 553.6800000000001 Z"
+         stroke-miterlimit="10"
+         id="path556" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g562">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1093.46630859375 562.36 L 1093.46630859375 579.64"
+         stroke-miterlimit="10"
+         id="path560" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g566">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1084.2764904119317 568.84 L 1102.6561267755683 568.84"
+         stroke-miterlimit="10"
+         id="path564" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g570">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1093.46630859375 579.64 L 1080.7026722301136 597"
+         stroke-miterlimit="10"
+         id="path568" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g574">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1093.46630859375 579.64 L 1106.2299449573864 597"
+         stroke-miterlimit="10"
+         id="path572" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g582">
+      <g
+         id="g580">
+        <path
+           fill="none"
+           stroke="none"
+           id="path576" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1026.0224609375"
+           y="617.5"
+           id="text578">Quality office employee</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g586">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 543 543 C 543 525.3268864 584.8613712 511 636.5 511 C 688.1386288 511 730 525.3268864 730 543 C 730 560.6731136 688.1386288 575 636.5 575 C 584.8613712 575 543 560.6731136 543 543 Z"
+         opacity="0.2"
+         id="path584" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g590">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 536 536 C 536 518.3268864 577.8613712 504 629.5 504 C 681.1386288 504 723 518.3268864 723 536 C 723 553.6731136 681.1386288 568 629.5 568 C 577.8613712 568 536 553.6731136 536 536 Z"
+         id="path588" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g594">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 536 536 C 536 518.3268864 577.8613712 504 629.5 504 C 681.1386288 504 723 518.3268864 723 536 C 723 553.6731136 681.1386288 568 629.5 568 C 577.8613712 568 536 553.6731136 536 536 Z"
+         stroke-miterlimit="10"
+         id="path592" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g602">
+      <g
+         id="g600">
+        <path
+           fill="none"
+           stroke="none"
+           id="path596" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="574.224609375"
+           y="543"
+           id="text598">FR3 Manage users</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g606">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 207 721 L 554 569"
+         stroke-miterlimit="10"
+         id="path604" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g610">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 546.3802414846992 576.9334280212593 L 554 569 L 543.0022363309391 569.2217978347147"
+         stroke-miterlimit="10"
+         id="path608" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g614">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 693 503 L 1007 340"
+         stroke-miterlimit="10"
+         id="path612" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g618">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 999.9196637346131 348.4183631644784 L 1007 340 L 996.0407645335702 340.94612789375765"
+         stroke-miterlimit="10"
+         id="path616" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g622">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 724 546 L 1015 575"
+         stroke-miterlimit="10"
+         id="path620" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g626">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1004.469979619151 578.180985818721 L 1015 575 L 1005.3048545393932 569.8034478259449"
+         stroke-miterlimit="10"
+         id="path624" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g630">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 539 503 L 261 400"
+         stroke-miterlimit="10"
+         id="path628" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g634">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 271.992110574531 399.58346054534536 L 261 400 L 269.06713379982125 407.47805805378516"
+         stroke-miterlimit="10"
+         id="path632" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g638">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 431 236 C 431 219.9837408 469.9512224 207 518 207 C 566.0487776 207 605 219.9837408 605 236 C 605 252.0162592 566.0487776 265 518 265 C 469.9512224 265 431 252.0162592 431 236 Z"
+         opacity="0.2"
+         id="path636" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g642">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 424 229 C 424 212.9837408 462.9512224 200 511 200 C 559.0487776 200 598 212.9837408 598 229 C 598 245.0162592 559.0487776 258 511 258 C 462.9512224 258 424 245.0162592 424 229 Z"
+         id="path640" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g646">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 424 229 C 424 212.9837408 462.9512224 200 511 200 C 559.0487776 200 598 212.9837408 598 229 C 598 245.0162592 559.0487776 258 511 258 C 462.9512224 258 424 245.0162592 424 229 Z"
+         stroke-miterlimit="10"
+         id="path644" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g654">
+      <g
+         id="g652">
+        <path
+           fill="none"
+           stroke="none"
+           id="path648" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="456.089599609375"
+           y="236"
+           id="text650">FR1 Manage items</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g658">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 639 320 C 639 301.7746016 694.9644 287 764 287 C 833.0356 287 889 301.7746016 889 320 C 889 338.2253984 833.0356 353 764 353 C 694.9644 353 639 338.2253984 639 320 Z"
+         opacity="0.2"
+         id="path656" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g662">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 632 313 C 632 294.7746016 687.9644 280 757 280 C 826.0356 280 882 294.7746016 882 313 C 882 331.2253984 826.0356 346 757 346 C 687.9644 346 632 331.2253984 632 313 Z"
+         id="path660" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g666">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 632 313 C 632 294.7746016 687.9644 280 757 280 C 826.0356 280 882 294.7746016 882 313 C 882 331.2253984 826.0356 346 757 346 C 687.9644 346 632 331.2253984 632 313 Z"
+         stroke-miterlimit="10"
+         id="path664" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g674">
+      <g
+         id="g672">
+        <path
+           fill="none"
+           stroke="none"
+           id="path668" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="677.87646484375"
+           y="320"
+           id="text670">FR1.2 Update item quantity</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g678">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 202 695 L 491 259"
+         stroke-miterlimit="10"
+         id="path676" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g682">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 488.89390799059623 269.7964983419591 L 491 259 L 481.8764908676792 265.1450452490164"
+         stroke-miterlimit="10"
+         id="path680" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g686">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 599 259 L 657 279"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path684" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g690">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 646.0202181988207 279.6666270310237 L 657 279 L 648.7647453382783 271.7074983265966"
+         stroke-miterlimit="10"
+         id="path688" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g698">
+      <g
+         id="g696">
+        <path
+           fill="none"
+           stroke="none"
+           id="path692" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="609.5"
+           y="246.5"
+           id="text694">«include»</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g702">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1007 305 L 883 309"
+         stroke-miterlimit="10"
+         id="path700" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g706">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 893.0216711290793 304.4650129238797 L 883 309 L 893.2931117283115 312.8796715000754"
+         stroke-miterlimit="10"
+         id="path704" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g710">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 503 387 C 503 371.5360256 559.6359728 359 629.5 359 C 699.3640272 359 756 371.5360256 756 387 C 756 402.4639744 699.3640272 415 629.5 415 C 559.6359728 415 503 402.4639744 503 387 Z"
+         opacity="0.2"
+         id="path708" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g714">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 496 380 C 496 364.5360256 552.6359728 352 622.5 352 C 692.3640272 352 749 364.5360256 749 380 C 749 395.4639744 692.3640272 408 622.5 408 C 552.6359728 408 496 395.4639744 496 380 Z"
+         id="path712" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g718">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 496 380 C 496 364.5360256 552.6359728 352 622.5 352 C 692.3640272 352 749 364.5360256 749 380 C 749 395.4639744 692.3640272 408 622.5 408 C 552.6359728 408 496 395.4639744 496 380 Z"
+         stroke-miterlimit="10"
+         id="path716" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g726">
+      <g
+         id="g724">
+        <path
+           fill="none"
+           stroke="none"
+           id="path720" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="542.294189453125"
+           y="387"
+           id="text722">FR2 Manage quality checks</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g730">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1015 549 L 689 409"
+         stroke-miterlimit="10"
+         id="path728" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g734">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 699.9990800837998 409.14225790016417 L 689 409 L 696.6769325881853 416.87811563995217"
+         stroke-miterlimit="10"
+         id="path732" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g738">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 439 675 C 439 659.5360256 496.083688 647 566.5 647 C 636.9163120000001 647 694 659.5360256 694 675 C 694 690.4639744 636.9163120000001 703 566.5 703 C 496.083688 703 439 690.4639744 439 675 Z"
+         opacity="0.2"
+         id="path736" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g742">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 432 668 C 432 652.5360256 489.083688 640 559.5 640 C 629.9163120000001 640 687 652.5360256 687 668 C 687 683.4639744 629.9163120000001 696 559.5 696 C 489.083688 696 432 683.4639744 432 668 Z"
+         id="path740" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g746">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 432 668 C 432 652.5360256 489.083688 640 559.5 640 C 629.9163120000001 640 687 652.5360256 687 668 C 687 683.4639744 629.9163120000001 696 559.5 696 C 489.083688 696 432 683.4639744 432 668 Z"
+         stroke-miterlimit="10"
+         id="path744" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g754">
+      <g
+         id="g752">
+        <path
+           fill="none"
+           stroke="none"
+           id="path748" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="478.570556640625"
+           y="675"
+           id="text750">FR4 Manage internal orders</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g758">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 261 422 L 524 639"
+         stroke-miterlimit="10"
+         id="path756" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g762">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 513.4821009754925 635.7791615827143 L 524 639 L 518.8401989619042 629.2852455899665"
+         stroke-miterlimit="10"
+         id="path760" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g766">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 431 690 L 207 729"
+         stroke-miterlimit="10"
+         id="path764" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g770">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 216.29001347498817 723.109698680497 L 207 729 L 217.73410353173114 731.403959519226"
+         stroke-miterlimit="10"
+         id="path768" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g774">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 399 807 C 399 789.3268864 456.9791184 775 528.5 775 C 600.0208815999999 775 658 789.3268864 658 807 C 658 824.6731136 600.0208815999999 839 528.5 839 C 456.9791184 839 399 824.6731136 399 807 Z"
+         opacity="0.2"
+         id="path772" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g778">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 392 800 C 392 782.3268864 449.9791184 768 521.5 768 C 593.0208815999999 768 651 782.3268864 651 800 C 651 817.6731136 593.0208815999999 832 521.5 832 C 449.9791184 832 392 817.6731136 392 800 Z"
+         id="path776" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g782">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 392 800 C 392 782.3268864 449.9791184 768 521.5 768 C 593.0208815999999 768 651 782.3268864 651 800 C 651 817.6731136 593.0208815999999 832 521.5 832 C 449.9791184 832 392 817.6731136 392 800 Z"
+         stroke-miterlimit="10"
+         id="path780" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g790">
+      <g
+         id="g788">
+        <path
+           fill="none"
+           stroke="none"
+           id="path784" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="438.7646484375"
+           y="807"
+           id="text786">FR5 Manage external orders</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g794">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1005.8239011008523 729.6800000000001 C 1005.8239011008523 724.8861679360001 1009.7097434257977 721 1014.503173828125 721 C 1019.2966042304523 721 1023.1824465553977 724.8861679360001 1023.1824465553977 729.6800000000001 C 1023.1824465553977 734.473832064 1019.2966042304523 738.36 1014.503173828125 738.36 C 1009.7097434257977 738.36 1005.8239011008523 734.473832064 1005.8239011008523 729.6800000000001 Z"
+         id="path792" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g798">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1005.8239011008523 729.6800000000001 C 1005.8239011008523 724.8861679360001 1009.7097434257977 721 1014.503173828125 721 C 1019.2966042304523 721 1023.1824465553977 724.8861679360001 1023.1824465553977 729.6800000000001 C 1023.1824465553977 734.473832064 1019.2966042304523 738.36 1014.503173828125 738.36 C 1009.7097434257977 738.36 1005.8239011008523 734.473832064 1005.8239011008523 729.6800000000001 Z"
+         stroke-miterlimit="10"
+         id="path796" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g802">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1014.503173828125 738.36 L 1014.503173828125 755.64"
+         stroke-miterlimit="10"
+         id="path800" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g806">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1005.3133556463068 744.84 L 1023.6929920099432 744.84"
+         stroke-miterlimit="10"
+         id="path804" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g810">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1014.503173828125 755.64 L 1001.7395374644886 773"
+         stroke-miterlimit="10"
+         id="path808" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g814">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1014.503173828125 755.64 L 1027.2668101917614 773"
+         stroke-miterlimit="10"
+         id="path812" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g822">
+      <g
+         id="g820">
+        <path
+           fill="none"
+           stroke="none"
+           id="path816" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="990.655029296875"
+           y="793.5"
+           id="text818">Supplier</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g826">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 652 789 L 983 762"
+         stroke-miterlimit="10"
+         id="path824" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g830">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 973.2132055414095 767.0218178207997 L 983 762 L 972.5287298372808 758.6306527072226"
+         stroke-miterlimit="10"
+         id="path828" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g834">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 207 741 L 391 776"
+         stroke-miterlimit="10"
+         id="path832" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g838">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 380.22971898990005 778.2363020733972 L 391 776 L 381.802956901593 769.9655656233542"
+         stroke-miterlimit="10"
+         id="path836" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g842">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 447 915 C 447 899.5360256 512.8141344000001 887 594 887 C 675.1858655999999 887 741 899.5360256 741 915 C 741 930.4639744 675.1858655999999 943 594 943 C 512.8141344000001 943 447 930.4639744 447 915 Z"
+         opacity="0.2"
+         id="path840" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g846">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 440 908 C 440 892.5360256 505.8141344 880 587 880 C 668.1858655999999 880 734 892.5360256 734 908 C 734 923.4639744 668.1858655999999 936 587 936 C 505.8141344 936 440 923.4639744 440 908 Z"
+         id="path844" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g850">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 440 908 C 440 892.5360256 505.8141344 880 587 880 C 668.1858655999999 880 734 892.5360256 734 908 C 734 923.4639744 668.1858655999999 936 587 936 C 505.8141344 936 440 923.4639744 440 908 Z"
+         stroke-miterlimit="10"
+         id="path848" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g858">
+      <g
+         id="g856">
+        <path
+           fill="none"
+           stroke="none"
+           id="path852" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="493.0673828125"
+           y="915"
+           id="text854">FR6 Manage item return request</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g862">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 207 749 L 518 879"
+         stroke-miterlimit="10"
+         id="path860" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g866">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 507.00005748999325 878.964436302975 L 518 879 L 510.24701338984255 871.1967187271815"
+         stroke-miterlimit="10"
+         id="path864" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g870">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 670 879 L 983 770"
+         stroke-miterlimit="10"
+         id="path868" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g874">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 974.7870189393977 777.317577611354 L 983 770 L 972.0182366474443 769.3668541491387"
+         stroke-miterlimit="10"
+         id="path872" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g878">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 600 639 L 1021 344"
+         stroke-miterlimit="10"
+         id="path876" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g882">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1015.0928479266662 353.27930786117736 L 1021 344 L 1010.2615511980894 346.3844742248016"
+         stroke-miterlimit="10"
+         id="path880" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g886">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 558 767 L 1033 344"
+         stroke-miterlimit="10"
+         id="path884" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g890">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1028.2100217870295 353.9023284493733 L 1033 344 L 1022.6109703277843 347.614977519961"
+         stroke-miterlimit="10"
+         id="path888" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g894">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 611 879 L 1046 344"
+         stroke-miterlimit="10"
+         id="path892" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g898">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1042.854850027841 354.54077946134095 L 1046 344 L 1036.3225864907315 349.22949976294365"
+         stroke-miterlimit="10"
+         id="path896" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g902">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 391 1055 C 391 1037.3268864 453.4562704 1023 530.5 1023 C 607.5437296 1023 670 1037.3268864 670 1055 C 670 1072.6731136 607.5437296 1087 530.5 1087 C 453.4562704 1087 391 1072.6731136 391 1055 Z"
+         opacity="0.2"
+         id="path900" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g906">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 384 1048 C 384 1030.3268864 446.4562704 1016 523.5 1016 C 600.5437296 1016 663 1030.3268864 663 1048 C 663 1065.6731136 600.5437296 1080 523.5 1080 C 446.4562704 1080 384 1065.6731136 384 1048 Z"
+         id="path904" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g910">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 384 1048 C 384 1030.3268864 446.4562704 1016 523.5 1016 C 600.5437296 1016 663 1030.3268864 663 1048 C 663 1065.6731136 600.5437296 1080 523.5 1080 C 446.4562704 1080 384 1065.6731136 384 1048 Z"
+         stroke-miterlimit="10"
+         id="path908" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g918">
+      <g
+         id="g916">
+        <path
+           fill="none"
+           stroke="none"
+           id="path912" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="433.169677734375"
+           y="1055"
+           id="text914">FR7 Manage warehouse space</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g922">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 207 764 L 486 1015"
+         stroke-miterlimit="10"
+         id="path920" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g926">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 475.6293977659158 1011.3324927672315 L 486 1015 L 481.260196069632 1005.0735576009495"
+         stroke-miterlimit="10"
+         id="path924" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g930">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1091 543 L 1081 344"
+         stroke-miterlimit="10"
+         id="path928" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g934">
+      <path
+         fill="#FFFFFF"
+         stroke="none"
+         d="M 1090.4285129878147 363.8772015846952 L 1081 344 L 1073.6116614386392 364.72226950173916"
+         id="path932" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g938">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1090.4285129878147 363.8772015846952 L 1081 344 L 1073.6116614386392 364.72226950173916 L 1090.4285129878147 363.8772015846952"
+         stroke-miterlimit="10"
+         id="path936" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g942">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 175 776 L 176 1176 L 1240 1168 L 1240 304 L 1151 303"
+         stroke-miterlimit="10"
+         id="path940" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g946">
+      <path
+         fill="#FFFFFF"
+         stroke="none"
+         d="M 1171.41865676668 294.80985617681154 L 1151 303 L 1171.2294768987097 311.64686442617034"
+         id="path944" />
+    </g>
+    <g
+       transform="translate(-134,-134) scale(1,1)"
+       id="g950">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1171.41865676668 294.80985617681154 L 1151 303 L 1171.2294768987097 311.64686442617034 L 1171.41865676668 294.80985617681154"
+         stroke-miterlimit="10"
+         id="path948" />
+    </g>
+  </g>
+</svg>
