@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jest-sonar-reporter": "^2.0.0"
+  }
+}
